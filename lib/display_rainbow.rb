@@ -1,10 +1,4 @@
 # Write your #display_rainbow method here
 def display_rainbow(arr)
-  puts 'R: ' + arr[1]
-  puts 'O: ' + arr[2]
-  puts 'Y: ' + arr[3]
-  puts 'G: ' + arr[4]
-  puts 'B: ' + arr[5]
-  puts 'I: ' + arr[6]
-  puts 'V: ' + arr[7]
+  puts "R: #{arr[1]}, O: #{arr[2]}, Y: #{arr[3]}, G: #{arr[4]}, B: #{arr[5]}, I: #{arr[6]}, V: #{arr[7]}"
 end
